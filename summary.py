@@ -3,7 +3,7 @@ import json
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.title("ESG Risk Assessment Summary")
+st.title("ESG Risk Assessment Summary for Darling Ingredients")
 
 # Load data
 esg_summary_file = "esg_summary.json"
